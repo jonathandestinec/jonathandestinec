@@ -58,9 +58,9 @@ I'm currently focused on mastering **Backend Development** and building scalable
 
 ### 📊 GitHub Stats
 
-![Destine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=1F1F1F&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF)
+![Destine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathandestinec&show_icons=true&theme=radical&hide_border=true&bg_color=1F1F1F&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=1F1F1F&title_color=8A2BE2&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandestinec&layout=compact&theme=radical&hide_border=true&bg_color=1F1F1F&title_color=8A2BE2&text_color=FFFFFF)
 
 ---
 
