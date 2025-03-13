@@ -20,6 +20,8 @@ Here are some of the technologies I work with:
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -61,6 +63,34 @@ I'm currently focused on mastering **Backend Development** and building scalable
 ![Destine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathandestinec&show_icons=true&theme=radical&hide_border=true&bg_color=1F1F1F&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandestinec&layout=compact&theme=radical&hide_border=true&bg_color=1F1F1F&title_color=8A2BE2&text_color=FFFFFF)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jonathandestinec&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathandestinec&theme=radical&hide_border=true&bg_color=1F1F1F&color=8A2BE2&line=8A2BE2&point=FFFFFF)
+
+---
+
+### 🏆 GitHub Achievements
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=jonathandestinec&theme=radical&no-frame=true&row=2&column=4)
+
+---
+
+### ⏳ Weekly Development Breakdown
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=jonathandestinec&theme=radical&hide_border=true&bg_color=1F1F1F&title_color=8A2BE2&text_color=FFFFFF)](https://wakatime.com/@jonathandestinec)
+
+---
+
+### 🎵 Now Playing
+
+[![Spotify](https://spotify-now-playing-readme.vercel.app/api/spotify?background_color=1F1F1F&border_color=8A2BE2)](https://open.spotify.com/user/your-spotify-id)
+
+---
+
+### 😂 Random Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 ---
 
